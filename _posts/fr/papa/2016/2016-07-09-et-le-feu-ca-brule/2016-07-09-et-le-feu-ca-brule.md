@@ -14,7 +14,7 @@ Voyage chez mon père, qui possède une piscine. Rapidement, le grand teste. Le 
 > — Yi, la piyine elle m'a mouillé le pied, Papa !
 
 <figure>
-  <img src="/assets/images/papa/2016-07-09/1.jpg" alt="Le Captain Obvious de South Park" />
+  ![Le Captain Obvious de South Park](1.jpg)
   <figcaption>Merci, <i lang="en">Captain Obvious</i>, votre travail est fini !</figcaption>
 </figure>
 

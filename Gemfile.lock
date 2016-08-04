@@ -101,6 +101,7 @@ GEM
     jekyll-livereload (0.2.1)
       em-websocket (~> 0.5)
       jekyll (~> 3.0)
+    jekyll-postfiles (2.0.0)
     jekyll-sass-converter (1.4.0)
       sass (~> 3.4)
     jekyll-sitemap (0.11.0)
@@ -112,7 +113,6 @@ GEM
       jekyll-tagging (~> 1.0.0)
     jekyll-watch (1.5.0)
       listen (~> 3.0, < 3.1)
-    jekyll_post_files (1.0.6)
     jemoji (0.7.0)
       activesupport (~> 4.0)
       gemoji (~> 2.0)
@@ -186,10 +186,10 @@ DEPENDENCIES
   jekyll-assets
   jekyll-compose
   jekyll-livereload
+  jekyll-postfiles
   jekyll-responsive_image!
   jekyll-sitemap
   jekyll-tagging-related_posts
-  jekyll_post_files
   jemoji
   octopress-autoprefixer
   octopress-debugger
