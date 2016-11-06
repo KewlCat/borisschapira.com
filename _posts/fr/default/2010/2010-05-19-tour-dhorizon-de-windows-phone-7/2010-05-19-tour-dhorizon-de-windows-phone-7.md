@@ -18,7 +18,7 @@ Les constructeurs de terminaux Windows Phone, tels que Samsung ou LG qui ont par
 
 <figure>
 <a data-featherlight="image" href="/assets/images/2010-05-19/1.jpg" title="Voir en plus grand">
-      {% responsive_image path: assets/images/2010-05-19/1.jpg %}
+      {% cloudinary /assets/images/2010-05-19/1.jpg %}
   </a>
   <figcaption>Écran d’accueil de Windows Phone 7 présentant plusieurs tuiles applicatives</figcaption>
 </figure>
@@ -31,7 +31,7 @@ Windows Mobile 6.5 (rebaptisé _Windows Phone Classic_), prédécesseur de Windo
 
 <figure>
 <a data-featherlight="image" href="/assets/images/2010-05-19/2.jpg" title="Voir en plus grand">
-      {% responsive_image path: assets/images/2010-05-19/2.jpg %}
+      {% cloudinary /assets/images/2010-05-19/2.jpg %}
   </a>
   <figcaption>"Office Hub" (Univers Bureau)</figcaption>
 </figure>
@@ -40,7 +40,7 @@ Avec Windows Phone 7, finis le Menu Démarrer, les listes interminables d’icô
 
 <figure>
 <a data-featherlight="image" href="/assets/images/2010-05-19/3.jpg" title="Voir en plus grand">
-      {% responsive_image path: assets/images/2010-05-19/3.jpg %}
+      {% cloudinary /assets/images/2010-05-19/3.jpg %}
   </a>
   <figcaption>Application Word pour Windows Phone&nbsp;: saisie d’un commentaire</figcaption>
 </figure>
@@ -55,7 +55,7 @@ Le parc d’applications disponibles dans le système regroupe les classiques E-
 
 <figure>
 <a data-featherlight="image" href="/assets/images/2010-05-19/excel.jpg" title="Voir en plus grand">
-      {% responsive_image path: assets/images/2010-05-19/excel.jpg %}
+      {% cloudinary /assets/images/2010-05-19/excel.jpg %}
   </a>
   <figcaption>Application Excel pour Windows Phone&nbsp;: capture du menu contextuel</figcaption>
 </figure>
@@ -64,7 +64,7 @@ Le copier-coller et le support de Flash seront absents de Windows Phone 7 à sa 
 
 <figure>
 <a data-featherlight="image" href="/assets/images/2010-05-19/4.jpg" title="Voir en plus grand">
-      {% responsive_image path: assets/images/2010-05-19/4.jpg %}
+      {% cloudinary /assets/images/2010-05-19/4.jpg %}
   </a>
   <figcaption>Découpes d’écran du "Pictures Hub" (Univers Images)</figcaption>
 </figure>
@@ -73,7 +73,7 @@ Concernant les applications externes et pour la première fois, Microsoft ose l�
 
 <figure>
 <a data-featherlight="image" href="/assets/images/2010-05-19/5.jpg" title="Voir en plus grand">
-      {% responsive_image path: assets/images/2010-05-19/5.jpg %}
+      {% cloudinary /assets/images/2010-05-19/5.jpg %}
   </a>
   <figcaption>Application Associated Press</figcaption>
 </figure>
@@ -82,7 +82,7 @@ Si la plupart des applications offertes par le système pourront continuer à to
 
 <figure>
 <a data-featherlight="image" href="/assets/images/2010-05-19/6.jpg" title="Voir en plus grand">
-      {% responsive_image path: assets/images/2010-05-19/6.jpg %}
+      {% cloudinary /assets/images/2010-05-19/6.jpg %}
   </a>
   <figcaption>Univers Microsoft MarketPlace</figcaption>
 </figure>
@@ -91,7 +91,7 @@ Toutes les applications devront être récupérées à partir du Windows Phone M
 
 <figure>
 <a data-featherlight="image" href="/assets/images/2010-05-19/7.jpg" title="Voir en plus grand">
-      {% responsive_image path: assets/images/2010-05-19/7.jpg %}
+      {% cloudinary /assets/images/2010-05-19/7.jpg %}
   </a>
   <figcaption>The Harvest, un Hack’n’Slash prometteur pour Windows Phone</figcaption>
 </figure>
@@ -104,7 +104,7 @@ Le développement sous Windows Phone 7 se réalise via une version spécifique d
 
 <figure>
 <a data-featherlight="image" href="/assets/images/2010-05-19/8.png" title="Voir en plus grand">
-      {% responsive_image path: assets/images/2010-05-19/8.png %}
+      {% cloudinary /assets/images/2010-05-19/8.png %}
   </a>
   <figcaption>Twin Blades, un jeu XBox Live Arcade porté sur Windows Phone en environ deux semaines</figcaption>
 </figure>
@@ -113,7 +113,7 @@ Nous avons réalisé l’expérience en interne en développant une application 
 
 <figure>
 <a data-featherlight="image" href="/assets/images/2010-05-19/9.jpg" title="Voir en plus grand">
-      {% responsive_image path: assets/images/2010-05-19/9.jpg %}
+      {% cloudinary /assets/images/2010-05-19/9.jpg %}
   </a>
   <figcaption>Émulateur Windows Phone 7, très fidèle au système</figcaption>
 </figure>

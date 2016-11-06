@@ -8,7 +8,7 @@ Depuis plusieurs mois, ce blog est propulsé par Jekyll et Codeship. Une page ex
 <!-- more -->
 
 <figure>
-      {% responsive_image path: assets/images/2016-02-25/jekyll.png alt: "Un tube à essai rempli d'une potion pétillante rouge écarlate" %}
+      {% cloudinary /assets/images/2016-02-25/jekyll.png alt: "Un tube à essai rempli d'une potion pétillante rouge écarlate" %}
   <figcaption>Jekyll</figcaption>
 </figure>
 

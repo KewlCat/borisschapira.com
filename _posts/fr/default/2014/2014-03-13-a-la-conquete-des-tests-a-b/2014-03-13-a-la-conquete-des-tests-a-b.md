@@ -18,7 +18,7 @@ Matthieu n’est pas tatillon, loin de là, mais ses responsabilités et sa cons
 
 <figure>
 <a data-featherlight="image" href="/assets/images/2014-03-13/1.jpg" title="Voir en plus grand">
-      {% responsive_image path: assets/images/2014-03-13/1.jpg alt: "Un crayon écrit un point d'interrogation sur un carnet" %}
+      {% cloudinary /assets/images/2014-03-13/1.jpg alt: "Un crayon écrit un point d'interrogation sur un carnet" %}
   </a>
   <figcaption>"Questioned Proposal" par Ethan Lofton - CC BY 2.0</figcaption>
 </figure>
@@ -45,7 +45,7 @@ Qu’à cela ne tienne, il décide de franchir le pas malgré tout et demande à
 
 <figure>
 <a data-featherlight="image" href="/assets/images/2014-03-13/2.png" title="Voir en plus grand">
-      {% responsive_image path: assets/images/2014-03-13/2.png alt: "Un prototype visuel d'une page produit d'un site e-commerce" %}
+      {% cloudinary /assets/images/2014-03-13/2.png alt: "Un prototype visuel d'une page produit d'un site e-commerce" %}
   </a>
   <figcaption>Maquette de la fiche produit : la zone jaune incluera soit un visuel du produit (version A), soit une vidéo (version B)</figcaption>
 </figure>
@@ -115,7 +115,7 @@ Heureusement, certains tests continuent à être possibles. L’équipe Marketin
 
 <figure>
 <a data-featherlight="image" href="/assets/images/2014-03-13/3.jpg" title="Voir en plus grand">
-      {% responsive_image path: assets/images/2014-03-13/3.jpg alt: "Un panneau indicateur pour la Rue d'Enfer" %}
+      {% cloudinary /assets/images/2014-03-13/3.jpg alt: "Un panneau indicateur pour la Rue d'Enfer" %}
   </a>
   <figcaption>"Rue d’Enfer" par Frédéric Bisson - CC BY 2.0</figcaption>
 </figure>
@@ -160,7 +160,7 @@ La première d’entre elles concerne la fonction d’adaptation. En effet, tout
 
 <figure>
 <a data-featherlight="image" href="/assets/images/2014-03-13/5.png" title="Voir en plus grand">
-      {% responsive_image path: assets/images/2014-03-13/5.png alt: "A 3D representation of a local maximum" %}
+      {% cloudinary /assets/images/2014-03-13/5.png alt: "A 3D representation of a local maximum" %}
   </a>
   <figcaption>Sometimes, optimization is an illusion. The real objective is higher.</figcaption>
 </figure>
@@ -179,7 +179,7 @@ Ajoutons à cela plusieurs autres limites évidentes :
 
 <figure>
 <a data-featherlight="image" href="/assets/images/2014-03-13/4.jpg" title="Voir en plus grand">
-      {% responsive_image path: assets/images/2014-03-13/4.jpg alt: "Une jeune femme pensive" %}
+      {% cloudinary /assets/images/2014-03-13/4.jpg alt: "Une jeune femme pensive" %}
   </a>
   <figcaption>"Thinking" par Moyan Brenn - CC BY 2.0</figcaption>
 </figure>

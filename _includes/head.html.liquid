@@ -10,9 +10,9 @@
   {% if page.category.size > 0 %}
       {% capture catdown %}{{ page.category|downcase }}{% endcapture %}
       {% capture themeColor %}{{ site.data.styles[catdown].color }}{% endcapture %}
-      {% css '{{ site.data.styles[catdown].css }}' data-instant-track %}
+      {% css '{{ site.data.styles[catdown].css }}' %}
   {% else %}
-      {% css '{{ site.data.styles.default.css }}' data-instant-track %}
+      {% css '{{ site.data.styles.default.css }}' %}
   {% endif %}
 
   <!-- WebMentions -->

@@ -16,7 +16,7 @@ gem 'jekyll-assets', group: :jekyll_plugins
 gem 'jekyll-archives', group: :jekyll_plugins
 gem 'jekyll-sitemap', group: :jekyll_plugins
 gem 'jekyll-tagging-related_posts', group: :jekyll_plugins
-gem 'jekyll-responsive_image', :github => 'wildlyinaccurate/jekyll-responsive-image', group: :jekyll_plugins
+gem 'jekyll-cloudinary', group: :jekyll_plugins
 gem 'algoliasearch-jekyll', '~> 1.0.0.beta.pre.1', group: :jekyll_plugins
 gem 'octopress-autoprefixer', group: :jekyll_plugins
 gem 'jemoji', group: :jekyll_plugins

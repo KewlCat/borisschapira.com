@@ -14,7 +14,7 @@ J'ai par exemple hâte d'acheter "[Les Culottées](http://lesculottees.blog.lemo
 
 <figure>
   <a href="http://lesculottees.blog.lemonde.fr/2016/01/25/margaret-hamilton-actrice-terrifiante/" title="Histoire complète sur le site des Culottées">
-      {% responsive_image path: assets/images/2016-04-20/0.jpg alt: "Capture d'écran de la fiche de Rosalind Franklin" %}
+      {% cloudinary /assets/images/2016-04-20/0.jpg alt: "Capture d'écran de la fiche de Rosalind Franklin" %}
   </a>
   <figcaption>Margaret Hamilton (actrice terrifiante)</figcaption>
 </figure>
@@ -26,7 +26,7 @@ Si le sujet vous intéresse vraiment, n'hésitez pas à suivre aussi les actuali
 
 <figure>
   <a href="http://interactive.unwomen.org/multimedia/timeline/womensfootprintinhistory/fr/index.html#section07" title="Fiche de Rosalind Franklin sur le site interactif d'ONU Femmes">
-      {% responsive_image path: assets/images/2016-04-20/1.png alt: "Illustration de Rosalind Franklin à côté d'un texte descriptif de son empreinte" %}
+      {% cloudinary /assets/images/2016-04-20/1.png alt: "Illustration de Rosalind Franklin à côté d'un texte descriptif de son empreinte" %}
   </a>
   <figcaption>Rosalind Franklin participant à la découverte de la structure de l'ADN en 1951.</figcaption>
 </figure>

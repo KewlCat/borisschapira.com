@@ -18,7 +18,7 @@ Solution Navigator est un mariage entre le Solution Explorer et le Class Viewer.
 
 <figure>
 <a data-featherlight="image" href="/assets/images/2010-09-02/VS2010_ProductivityPowerTools_SolutionNavigator.png" title="Voir en plus grand">
-      {% responsive_image path: assets/images/2010-09-02/VS2010_ProductivityPowerTools_SolutionNavigator.png %}
+      {% cloudinary /assets/images/2010-09-02/VS2010_ProductivityPowerTools_SolutionNavigator.png %}
   </a>
   <figcaption>Solution Navigator</figcaption>
 </figure>
@@ -29,7 +29,7 @@ Quick Access est l’outil idéal pour apprendre à utiliser Visual Studio ou en
 
 <figure>
 <a data-featherlight="image" href="/assets/images/2010-09-02/VS2010_ProductivityPowerTools_QuickAccess.png" title="Voir en plus grand">
-      {% responsive_image path: assets/images/2010-09-02/VS2010_ProductivityPowerTools_QuickAccess.png %}
+      {% cloudinary /assets/images/2010-09-02/VS2010_ProductivityPowerTools_QuickAccess.png %}
   </a>
   <figcaption>Quick Access</figcaption>
 </figure>
@@ -40,7 +40,7 @@ Celle nouvelle fenêtre facilite et accélère l’ajout de références à votr
 
 <figure>
 <a data-featherlight="image" href="/assets/images/2010-09-02/VS2010_ProductivityPowerTools_AddReference.png" title="Voir en plus grand">
-      {% responsive_image path: assets/images/2010-09-02/VS2010_ProductivityPowerTools_AddReference.png %}
+      {% cloudinary /assets/images/2010-09-02/VS2010_ProductivityPowerTools_AddReference.png %}
   </a>
   <figcaption>Add Reference</figcaption>
 </figure>

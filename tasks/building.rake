@@ -7,7 +7,7 @@ namespace :build do
   end
 
   desc 'Preview on local machine (server with --auto)'
-  task :preview, [:env] => :clean do |t, args|
+  task :preview, [:env] => "prebuild:test" do |t, args|
     puts "Preview task args were: #{args}"
     args.with_defaults(:env => 'dev')
     config_file = "_config_#{args[:env]}.yml"

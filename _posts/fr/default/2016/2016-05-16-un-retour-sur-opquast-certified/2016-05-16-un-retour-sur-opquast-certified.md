@@ -12,7 +12,7 @@ Les référentiels Opquast et Clever Age, c'est une histoire d'amour qui dure de
 <!-- more -->
 
 <figure>
-  {% responsive_image path: assets/images/2016-05-16/logo_opquast_certified.png alt: "Le mot &quot;opquast&quot; avec, en dessous, écrit &quot;certified&quot;. À gauche, un logo abstrait en nuances de vert." %}
+  {% cloudinary /assets/images/2016-05-16/logo_opquast_certified.png alt: "Le mot &quot;opquast&quot; avec, en dessous, écrit &quot;certified&quot;. À gauche, un logo abstrait en nuances de vert." %}
   <figcaption>Logo d'Opquast Certified®</figcaption>
 </figure>
 

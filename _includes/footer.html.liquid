@@ -27,7 +27,6 @@
 {% endif %}
 <input type="hidden" id="data-analytics" value="{&quot;environment&quot;:&quot;{{ jekyll.environment }}&quot;,&quot;categories&quot;:[&quot;{{ page.category }}&quot;],&quot;tags&quot;:[&quot;{{ page.tags | join:"&quot;,&quot;" }}&quot;]}"/>
 {% javascript critical %}
-{% javascript instant data-no-instant %}
 {% javascript main defer:"defer"%}
 {% if page.loadTwitterWjs %}
   {% javascript twitter-wjs %}

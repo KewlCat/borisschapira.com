@@ -16,7 +16,7 @@ Matthew is not the fussy type, really, but his responsibilities and professional
 
 <figure>
 <a data-featherlight="image" href="/assets/images/2014-03-13/1.jpg" title="Voir en plus grand">
-      {% responsive_image path: assets/images/2014-03-13/1.jpg alt: "A pen writing a question mark on a paper" %}
+      {% cloudinary /assets/images/2014-03-13/1.jpg alt: "A pen writing a question mark on a paper" %}
   </a>
   <figcaption>"Questioned Proposal" by Ethan Lofton - CC BY 2.0</figcaption>
 </figure>
@@ -39,7 +39,7 @@ Matthew is thinking about concrete implementation steps. His first constraint is
 
 <figure>
 <a data-featherlight="image" href="/assets/images/2014-03-13/2.png" title="Voir en plus grand">
-      {% responsive_image path: assets/images/2014-03-13/2.png alt: "A wireframe of the product page of an ecommerce website" %}
+      {% cloudinary /assets/images/2014-03-13/2.png alt: "A wireframe of the product page of an ecommerce website" %}
   </a>
   <figcaption>Product page template: the yellow area will feature either a picture of the product (version A) or a video (version B)</figcaption>
 </figure>
@@ -89,7 +89,7 @@ Eventually, Matthew and his team perform a new test with better measurements and
 
 <figure>
 <a data-featherlight="image" href="/assets/images/2014-03-13/3.jpg" title="Voir en plus grand">
-      {% responsive_image path: assets/images/2014-03-13/3.jpg alt: "A street name on a wall, stating 'Rue d'enfer', french for Hell's street" %}
+      {% cloudinary /assets/images/2014-03-13/3.jpg alt: "A street name on a wall, stating 'Rue d'enfer', french for Hell's street" %}
   </a>
   <figcaption>"Rue d’Enfer" by Frédéric Bisson - CC BY 2.0</figcaption>
 </figure>
@@ -124,7 +124,7 @@ The first of these limitations lies in the adaptation capability. Any optimizati
 
 <figure>
 <a data-featherlight="image" href="/assets/images/2014-03-13/5.png" title="Voir en plus grand">
-      {% responsive_image path: assets/images/2014-03-13/5.png alt: "Une représentation mathématique en 3D présentant un maximum local" %}
+      {% cloudinary /assets/images/2014-03-13/5.png alt: "Une représentation mathématique en 3D présentant un maximum local" %}
   </a>
   <figcaption>Parfois, on a l'illusion de l'optimisation. Alors que le sommet est plus loin.</figcaption>
 </figure>
